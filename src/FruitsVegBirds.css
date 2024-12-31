@@ -1,0 +1,37 @@
+.container {
+  font-family: Arial, sans-serif;
+  margin: 20px auto;
+  max-width: 600px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.container h1 {
+  text-align: center;
+  color: #333;
+}
+
+.category {
+  margin: 20px 0;
+}
+
+.category h2 {
+  color: #555;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.category ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  color: #333;
+}
+
+.category ul li {
+  margin: 5px 0;
+  font-size: 1.1em;
+}
